@@ -1,5 +1,6 @@
 # ignored files in repo
 logs/*
+*.zptest
 
 # Windows image file caches
 Thumbs.db
